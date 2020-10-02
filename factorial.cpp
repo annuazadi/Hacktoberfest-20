@@ -96,9 +96,9 @@ ll fact()
 
 void solve()
 {
-    ll n;			// enter a number
+    ll n;			// enter a number.
     cin>>n;
-    cout<<fact(n)<<endl;	// factorial of a number
+    cout<<fact(n)<<endl;	// factorial of a number by using function call
 
 }
 
